@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Challenge1 {
+public class Challenge1Easy {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
