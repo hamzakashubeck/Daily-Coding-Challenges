@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Challenge239 {
+public class Challenge239Easy {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
