@@ -34,5 +34,6 @@ public class Challenge1Difficult {
         }
 
         System.out.println("Thanks for playing!");
+        in.close();
     }
 }
