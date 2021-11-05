@@ -19,6 +19,8 @@ public class Challenge1Easy {
 
         System.out.println("your name is " + name + ", you are " + age
                 + " years old, and your username is " + user);
+        
+        in.close();
     }
 
 }
