@@ -18,6 +18,8 @@ public class Challenge4Difficult {
         int c = Integer.parseInt(in.nextLine());
 
         System.out.println(allCombos(a, b, c));
+        
+        in.close();
     }
     
     public static ArrayList<String> allCombos(int a, int b, int c) {
