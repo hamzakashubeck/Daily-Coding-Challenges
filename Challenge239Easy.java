@@ -29,5 +29,7 @@ public class Challenge239Easy {
             num /= 3;
         }
         System.out.println(num);
+        
+        in.close();
     }
 }
